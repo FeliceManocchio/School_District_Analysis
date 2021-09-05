@@ -10,7 +10,6 @@ Below is an image of the original analysis we ran within the district with the 9
 
 ![New_district_analysis](Images/New_district_analysis.png)
 
-https://github.com/FeliceManocchio/School_District_Analysis/issues/1#issue-988397063
 
 
 ## Summary
