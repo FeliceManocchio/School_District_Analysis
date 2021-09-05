@@ -19,9 +19,9 @@ The below images showthe original analysis of Thomas High School's standings wit
 ![school_summary_og](/Images/school_summary_og.png)
 ![school_summary_new](/Images/school_summary_new.png)
 
-### Affect of 9th Grader Replacement
+### Affect of 9th Grader Replacement in Overall Standings
+In overall scoring of thest with math and reading combined the removal of the 9th graders reduced the overall performance percent by less than a half of a percent which has Thomas High School still command a strong position in the top 5 performers as shown in the images above. 
 
-#### Affect of 9th Grade Replacement (Metrics)
 
 
 
