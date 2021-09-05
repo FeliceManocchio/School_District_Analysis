@@ -29,4 +29,10 @@ Below we will look deeper as to how much the metrics were affected by removing t
 ![spending_new](/Images/spending_new.png)
 - In regards to scores by school size still remained unaffected as Thomas High School still stood within the Medium 1000-2000 school bin
 - In regards to scores by school type the standings also go unchanged
-## Summary
+
+### Summary
+
+- In the district summary there was less than a half percent change in taking out the 9th grader score in the analysis of Thomas High School\'s performance
+- The school summary their were subtle changes is each categorys performance, the main reason we found this to happen was entirely removing an entire grade from the standings of Thomas high school and in doing this it skews the data with respect to every other school in our comparison. 
+- Overall the collective performance of students at Thomas High School remained in the top five even when we take out the 9th graders in our analysis
+- since there was not much of a difference in score performance within Thomas High School it makes sense that the bins remain relatively the same not changing which bins Thomas high school is located within.
